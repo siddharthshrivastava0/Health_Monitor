@@ -2,7 +2,7 @@
 ### LINK [Health-Monitor](https://siddharthshrivastava0.github.io/Health-Monitor)
 ---
 ## DESCRIPTION
-Health Monitor is a prototype project for elderly to make them easy to monitor their health as well as any individual who wants to monitor their vitals like Blood Oxygen Levels, Heart Rate, Blood Sugar Levels, Sleep (From Wearable Devices as of now precoded using javascript with optimal values) and Medicine Schedule with an Emergency button which on clicking will alert ambulance with location also an alert system which shows alerts about your vitals when they are at abnormal levels and above some limit it triggers event as same as Emergency Button.Desktop and Mobile responsive design build with HTML,CSS and Javascript .
+Health Monitor is a project for elderly which enables them to live a healthier life as well as any individual who wants to monitor their vitals like Blood Oxygen Levels, Heart Rate, Blood Sugar Levels, Sleep (From Wearable Devices as of now precoded using javascript with optimal values) and Medicine Schedule with an Emergency button which on clicking will alert ambulance with location also an alert system which shows alerts about your vitals when they are at abnormal levels and above some limit it triggers event as same as Emergency Button.Desktop and Mobile responsive design build with HTML,CSS and Javascript .
 
 ---
 ## SCREENSHOTS
@@ -61,14 +61,14 @@ It will show realtime Sleep Time from the data fetched by wearable and display i
 
 Author : Siddharth Shrivastava \
 Email: siddharthshrivastava1999@gmail.com \
-LinkedIn: https://www.linkedin.com/in/siddharth-shrivastava-9265ab171 /
+LinkedIn: https://www.linkedin.com/in/siddharth-shrivastava-9265ab171 \
 GitHub : https://github.com/siddharthshrivastava0 
 
 ---
 
 ## SUPPORT
 For any support query please contact me at \
-Email: siddharthshrivastava1999@gmail.com \
+Email: siddharthshrivastava1999@gmail.com 
 
 
 ---

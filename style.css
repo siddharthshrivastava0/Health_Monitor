@@ -132,7 +132,7 @@ body{
 
     .top-monitors .emergency-btn button{
         background-color: red;
-        width:398.312px;
+        width:398.312px; 
         height:100px;
         border: none;
         cursor: pointer;
